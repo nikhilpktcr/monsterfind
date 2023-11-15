@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monsterfind/static/css/main.86e92dd8.css",
+    "main.js": "/monsterfind/static/js/main.f7039185.js",
+    "index.html": "/monsterfind/index.html",
+    "main.86e92dd8.css.map": "/monsterfind/static/css/main.86e92dd8.css.map",
+    "main.f7039185.js.map": "/monsterfind/static/js/main.f7039185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e92dd8.css",
+    "static/js/main.f7039185.js"
+  ]
+}
